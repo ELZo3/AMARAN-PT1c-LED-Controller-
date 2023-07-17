@@ -1,6 +1,3 @@
-![NMU LED AMARAN (3)](https://github.com/ELZo3/AMARAN-PT1c-LED-Controller-/assets/5712013/670f8de1-2813-4548-b25e-13f6d0989a1c)
-![NMU LED AMARAN (2)](https://github.com/ELZo3/AMARAN-PT1c-LED-Controller-/assets/5712013/483b46b3-a3ba-414f-acb4-6b76535568f4)
-![NMU LED AMARAN (1)](https://github.com/ELZo3/AMARAN-PT1c-LED-Controller-/assets/5712013/32309e49-c00e-40e7-92cc-5b7abdc85541)
 # Art-Net DMX Lighting Control API for Amaran LED
 
 Welcome to my Art-Net DMX Lighting Control API! This project provides a Java API for controlling the Amaran PT1c LED light through the Art-Net protocol. The communication occurs via an OpenDMX Ethernet DMX512 interface by ENTTEC (ODE Mk2).
