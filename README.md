@@ -39,6 +39,8 @@ Contributions are welcome! Feel free to submit a pull request. Please ensure tha
 
 This project is released under the MIT License. See the LICENSE file for more details.
 
+## Screenshots of The LED control sofwtare by AMARAN (NMU LED AMARAN) 
+
 ![NMU LED AMARAN (3)](https://github.com/ELZo3/AMARAN-PT1c-LED-Controller-/assets/5712013/c032dc1b-e879-4c21-b2f5-a1c1150bfeb7)
 ![NMU LED AMARAN (2)](https://github.com/ELZo3/AMARAN-PT1c-LED-Controller-/assets/5712013/0964f5e9-5e0b-4cdd-90c8-4dda33e0aa33)
 ![NMU LED AMARAN (1)](https://github.com/ELZo3/AMARAN-PT1c-LED-Controller-/assets/5712013/3f87c1e2-cb4f-4254-9d6e-3b79aa7313fa)
