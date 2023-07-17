@@ -14,12 +14,13 @@ Type: Output, Protocol: Art-Net, Universe: 0. This configuration can be accessed
 
 ## Usage
 
-1. Ensure your hardware setup matches the system overview mentioned above.
-2. Clone this repository to your local machine.
-3. Open the project in your preferred Java IDE.
-4. **Configuration:** Navigate to `DMX_Light_Controller` class. Update the `IP_ADDRESS` and `PORT` in the constructor `ArtNet_AmaranLED_Controller(String _IP_ADDRESS,int _PORT)`. If you're using the standard values (IP_ADDRESS = "192.168.10.20", PORT = 6454), simply use the default constructor `ArtNet_AmaranLED_Controller()`.
+Follow these steps to use this project:
 
-5. Invoke the necessary methods on an instance of the `ArtNet_AmaranLED_Controller` class to control the light. For instance, use the `setIntensity(intensity)` method to modify the light's intensity.
+1. **Hardware Setup:** Ensure your hardware setup matches the system overview mentioned above.
+2. **Clone Repository:** Clone this repository to your local machine.
+3. **Java IDE:** Open the project in your preferred Java IDE.
+4. **Configuration:** If your ENTTEC interface IP and Port differ from the default (192.168.10.20 and 6454, respectively), adjust them in the `ArtNet_AmaranLED_Controller` constructor within the `DMX_Light_Controller` class. Otherwise, use the default constructor.
+5. **Control Lights:** Invoke the necessary methods on an instance of the `ArtNet_AmaranLED_Controller` class to control the light. For instance, use the `setIntensity(intensity)` method to modify the light's intensity.
 
 ## DMX Channels
 
