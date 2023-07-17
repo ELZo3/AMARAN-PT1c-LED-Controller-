@@ -24,12 +24,16 @@ Type: Output, Protocol: Art-Net, Universe: 0. This configuration can be accessed
 
 Here's a brief explanation of what each DMX channel can control:
 
-1. Channel 1: Intensity (0 - 255)
-2. Channel 2: Light temperature (0 - 255) - ranges from 2700 K to 10000 K
-3. Channel 5: RGB Red (0 - 255)
-4. Channel 6: RGB Green (0 - 255)
-5. Channel 7: RGB Blue (0 - 255)
-6. Channel 10: Strobe
+- **Channel 1:** Intensity (0 - 255)
+- **Channel 2:** Light temperature (0 - 255) - ranges from 2700 K to 10000 K
+- **Channel 5:** RGB Red (0 - 255)
+- **Channel 6:** RGB Green (0 - 255)
+- **Channel 7:** RGB Blue (0 - 255)
+- **Channel 10:** Strobe
+  - Value 0: Strobe off. 
+  - 1-19: Reserved, strobe off.
+  - Values 20 - 255: Control strobe speed, 20 being the slowest (1Hz) and 255 being the fastest (25Hz).
+
 
 ## Contribution
 
