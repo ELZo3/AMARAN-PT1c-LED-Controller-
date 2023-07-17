@@ -17,10 +17,8 @@ Type: Output, Protocol: Art-Net, Universe: 0. This configuration can be accessed
 1. Ensure your hardware setup matches the system overview mentioned above.
 2. Clone this repository to your local machine.
 3. Open the project in your preferred Java IDE.
-4. Update the `IP_ADDRESS` and `PORT` in the `ArtNet_AmaranLED_Controller(String _IP_ADDRESS,int _PORT )` constructor in `DMX_Light_Controller` class to match your setup. In case you use the standard values:
-   - IP_ADDRESS = "192.168.10.20"
-   - PORT = 6454
-   Then, use the default constructor `ArtNet_AmaranLED_Controller()`.
+4. **Configuration:** Navigate to `DMX_Light_Controller` class. Update the `IP_ADDRESS` and `PORT` in the constructor `ArtNet_AmaranLED_Controller(String _IP_ADDRESS,int _PORT)`. If you're using the standard values (IP_ADDRESS = "192.168.10.20", PORT = 6454), simply use the default constructor `ArtNet_AmaranLED_Controller()`.
+
 5. Invoke the necessary methods on an instance of the `ArtNet_AmaranLED_Controller` class to control the light. For instance, use the `setIntensity(intensity)` method to modify the light's intensity.
 
 ## DMX Channels
