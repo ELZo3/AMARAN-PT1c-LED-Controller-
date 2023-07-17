@@ -41,14 +41,11 @@ This project is released under the MIT License. See the LICENSE file for more de
 
 ##  Useful Links
 
-[Open DMX Ethernet Mk1 ODE (70305/70306)](https://support.enttec.com/support/solutions/articles/101000401530-open-dmx-ethernet-mk1-ode-70305-70306-legacy-product).
-[NMU_1.96.exe (8.43 MB)](https://support.enttec.com/helpdesk/attachments/101012223232)
-[Art-Net 4.pdf]  (https://www.artisticlicence.com/WebSiteMaster/User%20Guides/art-net.pdf)
-[amaran-PT-DMX-Profile-Specification-V1.0](https://www.aputure.com/wp-content/uploads/2023/02/amaran-PT-DMX-Profile-Specification-V1.0.pdf)
-[amaran-PT-Product-Manual-V1.2-0207] (https://www.aputure.com/wp-content/uploads/2023/02/amaran-PT-Product-Manual-V1.2-0207.pdf)
-
-
-
+- [Open DMX Ethernet Mk1 ODE (70305/70306)](https://support.enttec.com/support/solutions/articles/101000401530-open-dmx-ethernet-mk1-ode-70305-70306-legacy-product)
+- [NMU_1.96.exe (8.43 MB)](https://support.enttec.com/helpdesk/attachments/101012223232)
+- [Art-Net 4.pdf](https://www.artisticlicence.com/WebSiteMaster/User%20Guides/art-net.pdf)
+- [amaran-PT-DMX-Profile-Specification-V1.0](https://www.aputure.com/wp-content/uploads/2023/02/amaran-PT-DMX-Profile-Specification-V1.0.pdf)
+- [amaran-PT-Product-Manual-V1.2-0207](https://www.aputure.com/wp-content/uploads/2023/02/amaran-PT-Product-Manual-V1.2-0207.pdf)
 
 
 
